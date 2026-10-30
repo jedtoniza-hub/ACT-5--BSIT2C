@@ -4,7 +4,7 @@
 
 ## About
 
-This program shows how stacks and queues work using arrays and linked lists. It also has a parentheses checker and a small print queue program.
+The program shows how the stacks and queues work using arrays and linked lists. It also has a parentheses checker and a small print queue program.
 
 ## Files
 
