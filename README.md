@@ -16,31 +16,26 @@ This program shows how stacks and queues work using arrays and linked lists. It 
 - `balanced_parentheses.py`  — checks matching parentheses, brackets, and braces.
 - `print_queue.py`  — adds and prints jobs in first-in, first-out order.
 - `analysis.md` — answers the analysis question.
-- `sample_runs.md`  — example outputs for testing.
+- `sample_run.md`  — example outputs for testing.
 
 ## Requirements
 
-Python 3 is required. No extra packages are needed.
+Python 3 is required. No extra packages is required.
 
 ## Run the programs
 
 Open a terminal in this folder and run:
 
-```bash
 python main.py
-```
 
 To run the parentheses checker:
 
-```bash
 python balanced_parentheses.py
-```
 
 To run the print queue:
 
-```bash
 python print_queue.py
-```
+
 
 ## Things to test
 
